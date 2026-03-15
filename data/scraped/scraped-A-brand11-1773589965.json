@@ -1,0 +1,228 @@
+[
+  {
+    "id": "frag-70316",
+    "name": "ODR-211 Lucent",
+    "brand": "A-chromiq",
+    "slug": "a-chromiq-odr-211-lucent",
+    "year": 2021,
+    "gender": "unisex",
+    "fragrance_family": "Citrus Aromatic",
+    "concentration": null,
+    "description": "ODR-211 Lucent  by A-chromiq is a Citrus Aromatic fragrance for women and men. ODR-211 Lucent  was launched in 2021. The nose behind this fragrance is Nathalie Feisthauer.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-chromiq/ODR-211-Lucent-70316.html",
+    "fragrantica_rating": 3.5,
+    "fragrantica_votes": 2,
+    "main_accords": [
+      {
+        "name": "citrus",
+        "score": 100
+      },
+      {
+        "name": "fresh spicy",
+        "score": 51
+      },
+      {
+        "name": "aromatic",
+        "score": 44
+      },
+      {
+        "name": "bitter",
+        "score": 37
+      },
+      {
+        "name": "aldehydic",
+        "score": 34
+      }
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [
+      "Grapefruit",
+      "Mandora",
+      "Cilantro",
+      "Rhubarb",
+      "Ginger",
+      "Woodsy Notes",
+      "Aldehydes",
+      "Vetiver"
+    ],
+    "longevity": 60,
+    "sillage": 50,
+    "season_performance": {
+      "spring": 25,
+      "summer": 50,
+      "fall": 25,
+      "winter": 0,
+      "day": 50,
+      "night": 50
+    },
+    "image_url": "/images/fragrances/70316.jpg",
+    "brand_logo_url": "/images/brands/4503.jpg",
+    "similar_scents": [],
+    "gender_votes": {
+      "unisex": 1
+    },
+    "longevity_votes": {
+      "very weak": 0,
+      "weak": 0,
+      "moderate": 1,
+      "long lasting": 0,
+      "eternal": 0
+    },
+    "sillage_votes": {
+      "intimate": 0,
+      "moderate": 1,
+      "strong": 0,
+      "enormous": 0
+    },
+    "pricing": {
+      "price_value_score": 4.0,
+      "price_value_votes": {
+        "good value": 1
+      }
+    },
+    "season_tags": [
+      "spring",
+      "summer",
+      "fall",
+      "day",
+      "night"
+    ]
+  },
+  {
+    "id": "frag-70317",
+    "name": "ODR-212 Florescent",
+    "brand": "A-chromiq",
+    "slug": "a-chromiq-odr-212-florescent",
+    "year": 2021,
+    "gender": "unisex",
+    "fragrance_family": "Floral Fruity",
+    "concentration": null,
+    "description": "ODR-212 Florescent  by A-chromiq is a Floral Fruity fragrance for women and men. ODR-212 Florescent  was launched in 2021. The nose behind this fragrance is Nathalie Feisthauer.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-chromiq/ODR-212-Florescent-70317.html",
+    "fragrantica_rating": 3.67,
+    "fragrantica_votes": 3,
+    "main_accords": [
+      {
+        "name": "rose",
+        "score": 100
+      },
+      {
+        "name": "fruity",
+        "score": 91
+      },
+      {
+        "name": "aromatic",
+        "score": 87
+      },
+      {
+        "name": "fresh spicy",
+        "score": 84
+      },
+      {
+        "name": "powdery",
+        "score": 80
+      },
+      {
+        "name": "sweet",
+        "score": 68
+      },
+      {
+        "name": "warm spicy",
+        "score": 65
+      },
+      {
+        "name": "woody",
+        "score": 62
+      },
+      {
+        "name": "musky",
+        "score": 52
+      },
+      {
+        "name": "herbal",
+        "score": 52
+      }
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [
+      "Geranium",
+      "Raspberry",
+      "Carrot Seeds",
+      "Rose",
+      "Cedar",
+      "Cardamom",
+      "Litchi"
+    ],
+    "longevity": 60,
+    "sillage": 50,
+    "season_performance": {
+      "spring": 33,
+      "summer": 0,
+      "fall": 33,
+      "winter": 33,
+      "day": 50,
+      "night": 50
+    },
+    "image_url": "/images/fragrances/70317.jpg",
+    "brand_logo_url": "/images/brands/4503.jpg",
+    "similar_scents": [
+      "frag-49223"
+    ],
+    "gender_votes": {
+      "female": 1,
+      "unisex": 2
+    },
+    "longevity_votes": {
+      "very weak": 0,
+      "weak": 0,
+      "moderate": 1,
+      "long lasting": 0,
+      "eternal": 0
+    },
+    "sillage_votes": {
+      "intimate": 0,
+      "moderate": 1,
+      "strong": 0,
+      "enormous": 0
+    },
+    "pricing": {
+      "price_value_score": 3.0,
+      "price_value_votes": {
+        "ok": 1
+      }
+    },
+    "season_tags": [
+      "spring",
+      "fall",
+      "winter",
+      "day",
+      "night"
+    ]
+  },
+  {
+    "id": "frag-70318",
+    "name": "",
+    "brand": "",
+    "slug": "",
+    "year": null,
+    "gender": null,
+    "fragrance_family": null,
+    "concentration": null,
+    "description": "",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-chromiq/ODR-213-Opaque-70318.html",
+    "fragrantica_rating": 0,
+    "fragrantica_votes": 0,
+    "main_accords": [],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "longevity": 0,
+    "sillage": 0,
+    "season_performance": null,
+    "image_url": "/images/fragrances/70318.jpg",
+    "brand_logo_url": null,
+    "similar_scents": []
+  }
+]

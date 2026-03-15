@@ -1,0 +1,84 @@
+[
+  {
+    "id": "frag-36541",
+    "name": "A Bathing Ape",
+    "brand": "A Bathing Ape",
+    "slug": "a-bathing-ape-a-bathing-ape",
+    "year": 2016,
+    "gender": "unisex",
+    "fragrance_family": "Woody",
+    "concentration": null,
+    "description": "A Bathing Ape by A Bathing Ape is a Woody fragrance for women and men. A Bathing Ape was launched in 2016.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-Bathing-Ape/A-Bathing-Ape-36541.html",
+    "fragrantica_rating": 4.33,
+    "fragrantica_votes": 6,
+    "main_accords": [
+      {
+        "name": "woody",
+        "score": 100
+      },
+      {
+        "name": "powdery",
+        "score": 65
+      },
+      {
+        "name": "warm spicy",
+        "score": 58
+      },
+      {
+        "name": "balsamic",
+        "score": 44
+      },
+      {
+        "name": "aromatic",
+        "score": 37
+      }
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [
+      "Sandalwood"
+    ],
+    "longevity": 52,
+    "sillage": 75,
+    "season_performance": {
+      "spring": 57,
+      "summer": 14,
+      "fall": 14,
+      "winter": 14,
+      "day": 43,
+      "night": 57
+    },
+    "image_url": "/images/fragrances/36541.jpg",
+    "brand_logo_url": "/images/brands/2604.jpg",
+    "similar_scents": [
+      "frag-25587"
+    ],
+    "gender_votes": {
+      "male": 1
+    },
+    "longevity_votes": {
+      "very weak": 2,
+      "weak": 0,
+      "moderate": 2,
+      "long lasting": 0,
+      "eternal": 1
+    },
+    "sillage_votes": {
+      "intimate": 1,
+      "moderate": 2,
+      "strong": 0,
+      "enormous": 4
+    },
+    "pricing": {
+      "price_value_score": 5.0,
+      "price_value_votes": {
+        "great value": 1
+      }
+    },
+    "season_tags": [
+      "spring",
+      "night"
+    ]
+  }
+]

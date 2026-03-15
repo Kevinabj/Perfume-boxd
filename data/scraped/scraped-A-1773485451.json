@@ -1,0 +1,191 @@
+[
+  {
+    "id": "frag-36541",
+    "name": "",
+    "brand": "A Bathing Ape",
+    "slug": "a-bathing-ape",
+    "year": 2016,
+    "gender": "unisex",
+    "fragrance_family": "Woody",
+    "concentration": null,
+    "description": "A Bathing Ape by A Bathing Ape is a Woody fragrance for women and men. A Bathing Ape was launched in 2016.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-Bathing-Ape/A-Bathing-Ape-36541.html",
+    "fragrantica_rating": 4.33,
+    "fragrantica_votes": 6,
+    "main_accords": [
+      {
+        "name": "woody",
+        "score": 100
+      },
+      {
+        "name": "powdery",
+        "score": 65
+      },
+      {
+        "name": "warm spicy",
+        "score": 58
+      },
+      {
+        "name": "balsamic",
+        "score": 44
+      },
+      {
+        "name": "aromatic",
+        "score": 37
+      }
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "longevity": 52,
+    "sillage": 75,
+    "season_performance": {
+      "spring": 57,
+      "summer": 14,
+      "fall": 14,
+      "winter": 14
+    },
+    "image_url": "https://fimgs.net/mdimg/perfume/o.36541.jpg",
+    "brand_logo_url": "https://fimgs.net/mdimg/dizajneri/m.2604.jpg",
+    "similar_scents": [
+      "frag-25587"
+    ],
+    "pricing": {
+      "price_value_score": 5.0
+    },
+    "season_tags": [
+      "spring"
+    ]
+  },
+  {
+    "id": "frag-47834",
+    "name": "ABL No. 6",
+    "brand": "A Beautiful Life Brands",
+    "slug": "a-beautiful-life-brands-abl-no-6",
+    "year": null,
+    "gender": "unisex",
+    "fragrance_family": "fragrance for women and men. \"A fresh, pretty, and totally original",
+    "concentration": null,
+    "description": "ABL No. 6 by A Beautiful Life Brands is a fragrance for women and men. \"A fresh, pretty, and totally original fragrance, perfect for any season. Orchard fruits, pear and fig, blend beautifully with sweet honeysuckle, exotic osmanthus, and fragrant lilac. Deepened by a touch of sandalwood.\" - a note from the brand.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/ABL-No-6-47834.html",
+    "fragrantica_rating": 1,
+    "fragrantica_votes": 1,
+    "main_accords": [
+      {
+        "name": "fruity",
+        "score": 100
+      },
+      {
+        "name": "floral",
+        "score": 67
+      },
+      {
+        "name": "sweet",
+        "score": 61
+      },
+      {
+        "name": "fresh",
+        "score": 51
+      },
+      {
+        "name": "white floral",
+        "score": 49
+      }
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "longevity": 70,
+    "sillage": 100,
+    "season_performance": {
+      "spring": 25,
+      "summer": 25,
+      "fall": 25,
+      "winter": 25
+    },
+    "image_url": "https://fimgs.net/mdimg/perfume/o.47834.jpg",
+    "brand_logo_url": "https://fimgs.net/mdimg/dizajneri/m.3246.jpg",
+    "similar_scents": [
+      "frag-5660"
+    ],
+    "season_tags": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ]
+  },
+  {
+    "id": "frag-47835",
+    "name": "Black Rose",
+    "brand": "A Beautiful Life Brands",
+    "slug": "a-beautiful-life-brands-black-rose",
+    "year": null,
+    "gender": "women",
+    "fragrance_family": "fragrance for women. \"A thoroughly modern unisex rose",
+    "concentration": null,
+    "description": "Black Rose by A Beautiful Life Brands is a fragrance for women. \"A thoroughly modern unisex rose fragrance, sensual and sophisticated. Bulgarian rose is amplified and framed by hints of leather, amber, and musk. Black Rose is an enchanting way to rediscover the beauty and elegance of roses.\" - a note from the brand.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-Beautiful-Life-Brands/Black-Rose-47835.html",
+    "fragrantica_rating": 4.5,
+    "fragrantica_votes": 2,
+    "main_accords": [
+      {
+        "name": "rose",
+        "score": 100
+      },
+      {
+        "name": "musky",
+        "score": 92
+      },
+      {
+        "name": "leather",
+        "score": 88
+      },
+      {
+        "name": "amber",
+        "score": 84
+      },
+      {
+        "name": "animalic",
+        "score": 79
+      },
+      {
+        "name": "powdery",
+        "score": 69
+      },
+      {
+        "name": "floral",
+        "score": 51
+      },
+      {
+        "name": "smoky",
+        "score": 47
+      }
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [],
+    "longevity": 100,
+    "sillage": 0,
+    "season_performance": {
+      "spring": 0,
+      "summer": 33,
+      "fall": 33,
+      "winter": 33
+    },
+    "image_url": "https://fimgs.net/mdimg/perfume/o.47835.jpg",
+    "brand_logo_url": "https://fimgs.net/mdimg/dizajneri/m.3246.jpg",
+    "similar_scents": [
+      "frag-2072",
+      "frag-7224",
+      "frag-53476",
+      "frag-1483",
+      "frag-62570"
+    ],
+    "season_tags": [
+      "summer",
+      "fall",
+      "winter"
+    ]
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "frag-81282",
+    "name": "Moonlight Cypress",
+    "brand": "A La Lune",
+    "slug": "a-la-lune-moonlight-cypress",
+    "year": 2021,
+    "gender": "unisex",
+    "fragrance_family": "Aromatic",
+    "concentration": "Eau de Toilette",
+    "description": "Moonlight Cypress by A La Lune is a Aromatic fragrance for women and men. Moonlight Cypress was launched in 2021. Top notes are Juniper and Sage; middle notes are Cade oil and Cypriol Oil or Nagarmotha; base notes are Juniper and White Musk. Moonlight Cypress - Incense of Tibetan RitualThe sacred lake is under the blessing of moonlight, surrounded by the snow-capped mountains where Sabina Przewalskii is found. Immersed in the reverence of Moonlight Cypress with the burning incense of “Weisang” ritual and pure air of Tibet. At night, every mountain, every river is imbued with divinity. Strolling with A La Lune to the sacred lake beneath the glaciers, it mirrors the pines, cypresses and the blooming wildflowers. Moonlight Cypress Eau de Toilette, the memory of moonlight, starts a pilgrimage to another world.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-La-Lune/Moonlight-Cypress-81282.html",
+    "fragrantica_rating": 3,
+    "fragrantica_votes": 2,
+    "main_accords": [
+      {
+        "name": "woody",
+        "score": 100
+      },
+      {
+        "name": "aromatic",
+        "score": 97
+      },
+      {
+        "name": "fresh spicy",
+        "score": 83
+      },
+      {
+        "name": "earthy",
+        "score": 53
+      },
+      {
+        "name": "fresh",
+        "score": 43
+      }
+    ],
+    "top_notes": [
+      "Juniper",
+      "Sage"
+    ],
+    "heart_notes": [
+      "Cade oil",
+      "Cypriol Oil or Nagarmotha"
+    ],
+    "base_notes": [
+      "Juniper",
+      "White Musk"
+    ],
+    "longevity": 20,
+    "sillage": 25,
+    "season_performance": {
+      "spring": 0,
+      "summer": 50,
+      "fall": 0,
+      "winter": 50,
+      "day": 50,
+      "night": 50
+    },
+    "image_url": "/images/fragrances/81282.jpg",
+    "brand_logo_url": "/images/brands/5237.jpg",
+    "similar_scents": [
+      "frag-30158"
+    ],
+    "gender_votes": {
+      "unisex": 1
+    },
+    "longevity_votes": {
+      "very weak": 1,
+      "weak": 0,
+      "moderate": 0,
+      "long lasting": 0,
+      "eternal": 0
+    },
+    "sillage_votes": {
+      "intimate": 1,
+      "moderate": 0,
+      "strong": 0,
+      "enormous": 0
+    },
+    "pricing": {
+      "price_value_score": 2.0,
+      "price_value_votes": {
+        "overpriced": 1
+      }
+    },
+    "season_tags": [
+      "summer",
+      "winter",
+      "day",
+      "night"
+    ]
+  },
+  {
+    "id": "frag-81281",
+    "name": "Santal Extreme",
+    "brand": "A La Lune",
+    "slug": "a-la-lune-santal-extreme",
+    "year": 2021,
+    "gender": "unisex",
+    "fragrance_family": "Oriental Spicy",
+    "concentration": null,
+    "description": "Santal Extreme by A La Lune is a Oriental Spicy fragrance for women and men. Santal Extreme was launched in 2021. Top notes are Angelica and Saffron; middle notes are Amber and Olibanum; base notes are Agarwood and Benzoin. Santal Extreme - The Royal Memory of Palace in the Far EastSantal Extreme, a time-travel to the ancient palaces with this melodic blend of exotic ingredients and luxurious scents that evoke a unique sensory experience and create an aura of grace, sophistication, and mystery. Be prepared to feel the finest ingredients and symbol of wealth in the Emperor’s days — Oud, crowned by the mist of woody oriental incense of Frankincense, myrrh, and benzoin tears.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-La-Lune/Santal-Extreme-81281.html",
+    "fragrantica_rating": 4.5,
+    "fragrantica_votes": 2,
+    "main_accords": [
+      {
+        "name": "amber",
+        "score": 100
+      },
+      {
+        "name": "warm spicy",
+        "score": 60
+      },
+      {
+        "name": "musky",
+        "score": 48
+      },
+      {
+        "name": "oud",
+        "score": 48
+      },
+      {
+        "name": "powdery",
+        "score": 44
+      }
+    ],
+    "top_notes": [
+      "Angelica",
+      "Saffron"
+    ],
+    "heart_notes": [
+      "Amber",
+      "Olibanum"
+    ],
+    "base_notes": [
+      "Agarwood",
+      "Benzoin"
+    ],
+    "longevity": 80,
+    "sillage": 75,
+    "season_performance": {
+      "spring": 0,
+      "summer": 0,
+      "fall": 100,
+      "winter": 0,
+      "day": 0,
+      "night": 100
+    },
+    "image_url": "/images/fragrances/81281.jpg",
+    "brand_logo_url": "/images/brands/5237.jpg",
+    "similar_scents": [],
+    "gender_votes": {
+      "unisex": 3
+    },
+    "longevity_votes": {
+      "very weak": 0,
+      "weak": 0,
+      "moderate": 1,
+      "long lasting": 0,
+      "eternal": 1
+    },
+    "sillage_votes": {
+      "intimate": 0,
+      "moderate": 1,
+      "strong": 0,
+      "enormous": 1
+    },
+    "pricing": {
+      "price_value_score": 4.5,
+      "price_value_votes": {
+        "good value": 1,
+        "great value": 1
+      }
+    },
+    "season_tags": [
+      "fall",
+      "night"
+    ]
+  },
+  {
+    "id": "frag-81283",
+    "name": "Trinity Blood",
+    "brand": "A La Lune",
+    "slug": "a-la-lune-trinity-blood",
+    "year": 2021,
+    "gender": "unisex",
+    "fragrance_family": "Aromatic Spicy",
+    "concentration": null,
+    "description": "Trinity Blood by A La Lune is a Aromatic Spicy fragrance for women and men. Trinity Blood was launched in 2021. Top notes are Blood, Metallic notes and Blackberry; middle notes are Vetiver and Myrtle; base notes are Frankincense and Patchouli. Trinity Blood - Dancing with the Poison BladeBe the author of your own destiny and be invincible. Magic of Trinity Blood offers strength and confidence, unlock inner desire. Draws the destiny in the battlefield — Served the realm, be honored as knight by the King.Sharp mind matched with sharp blade, the woody oriental base note of sharp sword refined by the Patchouli and Frankincense leaves this warrior with infinite elegance in every blade dancing. Myrtle and Vetiver provokes the enemies in the scenes of the battlefield.Feel the power of a warrior and destroy enemies with fatal fragrance.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-La-Lune/Trinity-Blood-81283.html",
+    "fragrantica_rating": 2.25,
+    "fragrantica_votes": 12,
+    "main_accords": [
+      {
+        "name": "metallic",
+        "score": 100
+      },
+      {
+        "name": "mineral",
+        "score": 95
+      },
+      {
+        "name": "aromatic",
+        "score": 48
+      },
+      {
+        "name": "amber",
+        "score": 45
+      },
+      {
+        "name": "fruity",
+        "score": 45
+      },
+      {
+        "name": "woody",
+        "score": 44
+      }
+    ],
+    "top_notes": [
+      "Blood",
+      "Metallic notes",
+      "Blackberry"
+    ],
+    "heart_notes": [
+      "Vetiver",
+      "Myrtle"
+    ],
+    "base_notes": [
+      "Frankincense",
+      "Patchouli"
+    ],
+    "longevity": 75,
+    "sillage": 75,
+    "season_performance": {
+      "spring": 0,
+      "summer": 0,
+      "fall": 57,
+      "winter": 43,
+      "day": 0,
+      "night": 100
+    },
+    "image_url": "/images/fragrances/81283.jpg",
+    "brand_logo_url": "/images/brands/5237.jpg",
+    "similar_scents": [
+      "frag-75421",
+      "frag-26573",
+      "frag-66669",
+      "frag-102493"
+    ],
+    "gender_votes": {
+      "unisex": 2,
+      "more male": 1,
+      "male": 1
+    },
+    "longevity_votes": {
+      "very weak": 0,
+      "weak": 1,
+      "moderate": 0,
+      "long lasting": 2,
+      "eternal": 1
+    },
+    "sillage_votes": {
+      "intimate": 1,
+      "moderate": 0,
+      "strong": 0,
+      "enormous": 2
+    },
+    "pricing": {
+      "price_value_score": 3.0,
+      "price_value_votes": {
+        "way overpriced": 1,
+        "great value": 1
+      }
+    },
+    "season_tags": [
+      "fall",
+      "winter",
+      "night"
+    ]
+  }
+]

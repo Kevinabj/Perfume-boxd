@@ -1,0 +1,716 @@
+[
+  {
+    "id": "frag-15524",
+    "name": "Amber Queen",
+    "brand": "A Dozen Roses",
+    "slug": "a-dozen-roses-amber-queen",
+    "year": 2012,
+    "gender": "women",
+    "fragrance_family": "Oriental Floral",
+    "concentration": null,
+    "description": "Amber Queen by A Dozen Roses is a Oriental Floral fragrance for women. Amber Queen was launched in 2012. Amber Queen was created by Lynn Emmolo and Irina Burlakova. Top notes are Apricot, Clementine and Ginger; middle notes are Damask Rose and Rose; base note is Amber.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-Dozen-Roses/Amber-Queen-15524.html",
+    "fragrantica_rating": 3.78,
+    "fragrantica_votes": 97,
+    "main_accords": [
+      {
+        "name": "citrus",
+        "score": 100
+      },
+      {
+        "name": "rose",
+        "score": 89
+      },
+      {
+        "name": "fruity",
+        "score": 87
+      },
+      {
+        "name": "sweet",
+        "score": 67
+      },
+      {
+        "name": "floral",
+        "score": 60
+      },
+      {
+        "name": "fresh spicy",
+        "score": 55
+      },
+      {
+        "name": "amber",
+        "score": 55
+      },
+      {
+        "name": "powdery",
+        "score": 52
+      },
+      {
+        "name": "lactonic",
+        "score": 49
+      },
+      {
+        "name": "fresh",
+        "score": 46
+      }
+    ],
+    "top_notes": [
+      "Apricot",
+      "Clementine",
+      "Ginger"
+    ],
+    "heart_notes": [
+      "Damask Rose",
+      "Rose"
+    ],
+    "base_notes": [
+      "Amber"
+    ],
+    "longevity": 67,
+    "sillage": 57,
+    "season_performance": {
+      "spring": 32,
+      "summer": 30,
+      "fall": 26,
+      "winter": 11,
+      "day": 73,
+      "night": 27
+    },
+    "image_url": "/images/fragrances/15524.jpg",
+    "brand_logo_url": "/images/brands/1275.jpg",
+    "similar_scents": [
+      "frag-15834",
+      "frag-8325",
+      "frag-32668",
+      "frag-53147",
+      "frag-11061"
+    ],
+    "gender_votes": {
+      "female": 1,
+      "more female": 1,
+      "unisex": 1,
+      "male": 1
+    },
+    "longevity_votes": {
+      "very weak": 3,
+      "weak": 4,
+      "moderate": 7,
+      "long lasting": 7,
+      "eternal": 6
+    },
+    "sillage_votes": {
+      "intimate": 16,
+      "moderate": 7,
+      "strong": 6,
+      "enormous": 11
+    },
+    "pricing": {
+      "price_value_score": 2.0,
+      "price_value_votes": {
+        "overpriced": 2
+      }
+    },
+    "season_tags": [
+      "spring",
+      "summer",
+      "fall",
+      "day"
+    ]
+  },
+  {
+    "id": "frag-18588",
+    "name": "Angel Face",
+    "brand": "A Dozen Roses",
+    "slug": "a-dozen-roses-angel-face",
+    "year": 2013,
+    "gender": "women",
+    "fragrance_family": "Floral Fruity",
+    "concentration": "Eau de Parfum",
+    "description": "Angel Face by A Dozen Roses is a Floral Fruity fragrance for women. Angel Face was launched in 2013. Angel Face was created by Lynn Emmolo and Irina Burlakova. Top notes are Black Currant and Apple; middle notes are Rose, Violet, Peony, Lilac and Jasmine; base notes are Vetiver, Patchouli and Tonka Bean. Angel Face is the newest rose in the bouquet of A Dozen Roses. The fragrance was inspired by the Angel Face rose, a tea rose hybrid known for its striking lavender-blue colored blossoms and intense citrus-fruity aroma.Angel Face by A Dozen Roses is a Floral Fruity fragrance for women. This is a new fragrance. Angel Face was launched in 2013. The fragrance is an Eau de Parfum available in 100 ml/3.4 oz. bottles. Top notes are black currant and apple; middle notes are peony, violet, jasmine, lilac and the signature A Dozen Roses rose absolute; base notes are patchouli, roasted tonka bean and vetiver.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-Dozen-Roses/Angel-Face-18588.html",
+    "fragrantica_rating": 3.97,
+    "fragrantica_votes": 106,
+    "main_accords": [
+      {
+        "name": "floral",
+        "score": 100
+      },
+      {
+        "name": "woody",
+        "score": 89
+      },
+      {
+        "name": "fruity",
+        "score": 85
+      },
+      {
+        "name": "rose",
+        "score": 79
+      },
+      {
+        "name": "fresh",
+        "score": 71
+      },
+      {
+        "name": "aromatic",
+        "score": 69
+      },
+      {
+        "name": "earthy",
+        "score": 64
+      },
+      {
+        "name": "patchouli",
+        "score": 59
+      },
+      {
+        "name": "green",
+        "score": 57
+      },
+      {
+        "name": "violet",
+        "score": 55
+      }
+    ],
+    "top_notes": [
+      "Black Currant",
+      "Apple"
+    ],
+    "heart_notes": [
+      "Rose",
+      "Violet",
+      "Peony",
+      "Lilac",
+      "Jasmine"
+    ],
+    "base_notes": [
+      "Vetiver",
+      "Patchouli",
+      "Tonka Bean"
+    ],
+    "longevity": 61,
+    "sillage": 65,
+    "season_performance": {
+      "spring": 28,
+      "summer": 28,
+      "fall": 31,
+      "winter": 13,
+      "day": 62,
+      "night": 38
+    },
+    "image_url": "/images/fragrances/18588.jpg",
+    "brand_logo_url": "/images/brands/1275.jpg",
+    "similar_scents": [
+      "frag-26863",
+      "frag-5034",
+      "frag-253",
+      "frag-38018",
+      "frag-29572",
+      "frag-8704",
+      "frag-13729",
+      "frag-170",
+      "frag-1867",
+      "frag-825",
+      "frag-7745",
+      "frag-13442",
+      "frag-4223",
+      "frag-16072",
+      "frag-17655",
+      "frag-23260",
+      "frag-1900",
+      "frag-28867",
+      "frag-29157",
+      "frag-30196"
+    ],
+    "gender_votes": {
+      "female": 4,
+      "unisex": 3
+    },
+    "longevity_votes": {
+      "very weak": 2,
+      "weak": 10,
+      "moderate": 7,
+      "long lasting": 8,
+      "eternal": 4
+    },
+    "sillage_votes": {
+      "intimate": 10,
+      "moderate": 7,
+      "strong": 4,
+      "enormous": 13
+    },
+    "pricing": {
+      "price_value_score": 3.0,
+      "price_value_votes": {
+        "ok": 3
+      }
+    },
+    "season_tags": [
+      "spring",
+      "summer",
+      "fall",
+      "day"
+    ]
+  },
+  {
+    "id": "frag-14300",
+    "name": "Electron",
+    "brand": "A Dozen Roses",
+    "slug": "a-dozen-roses-electron",
+    "year": 2012,
+    "gender": "women",
+    "fragrance_family": "Floral Fruity",
+    "concentration": null,
+    "description": "Electron by A Dozen Roses is a Floral Fruity fragrance for women. Electron was launched in 2012. The nose behind this fragrance is Lynn Emmolo. Electron is inspired by the Electric Pink Rose and named ELECTRON. The fragrance is bright, fresh and clean. \"A shock to the senses. ELECTRON is a stunning combination of Electric Pink Rose blended with a jolt of green tea, violet leaves and cattalyea orchid then supercharged with neon musk, and A Dozen Roses' signature rose absolute.\" ADR Press Release ELECTRON is available exclusively at Neiman Marcus and Bergdorf Goodman on February 12th. It retails for $95 (3.4 fl. oz.).",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-Dozen-Roses/Electron-14300.html",
+    "fragrantica_rating": 3.64,
+    "fragrantica_votes": 91,
+    "main_accords": [
+      {
+        "name": "ozonic",
+        "score": 100
+      },
+      {
+        "name": "rose",
+        "score": 91
+      },
+      {
+        "name": "green",
+        "score": 87
+      },
+      {
+        "name": "musky",
+        "score": 73
+      },
+      {
+        "name": "aquatic",
+        "score": 72
+      },
+      {
+        "name": "floral",
+        "score": 67
+      },
+      {
+        "name": "powdery",
+        "score": 59
+      },
+      {
+        "name": "fresh",
+        "score": 50
+      },
+      {
+        "name": "sweet",
+        "score": 45
+      }
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [
+      "Tea",
+      "Rose",
+      "Violet Leaf",
+      "Musk",
+      "Orchid"
+    ],
+    "longevity": 60,
+    "sillage": 68,
+    "season_performance": {
+      "spring": 45,
+      "summer": 39,
+      "fall": 9,
+      "winter": 7,
+      "day": 88,
+      "night": 12
+    },
+    "image_url": "/images/fragrances/14300.jpg",
+    "brand_logo_url": "/images/brands/1275.jpg",
+    "similar_scents": [
+      "frag-2714",
+      "frag-5146",
+      "frag-5512",
+      "frag-601"
+    ],
+    "gender_votes": {
+      "female": 2,
+      "more female": 1
+    },
+    "longevity_votes": {
+      "very weak": 4,
+      "weak": 5,
+      "moderate": 6,
+      "long lasting": 3,
+      "eternal": 5
+    },
+    "sillage_votes": {
+      "intimate": 5,
+      "moderate": 6,
+      "strong": 6,
+      "enormous": 9
+    },
+    "pricing": {
+      "price_value_score": 3.0,
+      "price_value_votes": {
+        "ok": 1
+      }
+    },
+    "season_tags": [
+      "spring",
+      "summer",
+      "day"
+    ]
+  },
+  {
+    "id": "frag-12963",
+    "name": "Gold Rush",
+    "brand": "A Dozen Roses",
+    "slug": "a-dozen-roses-gold-rush",
+    "year": 2011,
+    "gender": "women",
+    "fragrance_family": "Oriental Floral",
+    "concentration": null,
+    "description": "Gold Rush by A Dozen Roses is a Oriental Floral fragrance for women. Gold Rush was launched in 2011. The nose behind this fragrance is Lynn Emmolo. \"All the glisters is not gold\" William Shakespeare The yellow color is quite exotic in the world of roses as it attracts attention with a so far yet to be experienced combination of olfactive impressions. A teasing sour-sweet blackberry dipped in chocolate invites you to explore all the layers of this sweet woody-floral fragrance poured with golden spicy dust. This fragrance is not about dewy morning rose, its sweet and spicy character works better for a romantic night.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-Dozen-Roses/Gold-Rush-12963.html",
+    "fragrantica_rating": 3.9,
+    "fragrantica_votes": 144,
+    "main_accords": [
+      {
+        "name": "woody",
+        "score": 100
+      },
+      {
+        "name": "sweet",
+        "score": 99
+      },
+      {
+        "name": "rose",
+        "score": 87
+      },
+      {
+        "name": "warm spicy",
+        "score": 78
+      },
+      {
+        "name": "yellow floral",
+        "score": 77
+      },
+      {
+        "name": "fruity",
+        "score": 70
+      },
+      {
+        "name": "chocolate",
+        "score": 69
+      },
+      {
+        "name": "white floral",
+        "score": 64
+      },
+      {
+        "name": "floral",
+        "score": 50
+      },
+      {
+        "name": "citrus",
+        "score": 50
+      }
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [
+      "Rose",
+      "Mexican chocolate",
+      "Ylang-Ylang",
+      "Blackberry",
+      "African Orange Flower",
+      "Woodsy Notes",
+      "Ebony Wood",
+      "Spices"
+    ],
+    "longevity": 66,
+    "sillage": 61,
+    "season_performance": {
+      "spring": 21,
+      "summer": 19,
+      "fall": 34,
+      "winter": 26,
+      "day": 43,
+      "night": 57
+    },
+    "image_url": "/images/fragrances/12963.jpg",
+    "brand_logo_url": "/images/brands/1275.jpg",
+    "similar_scents": [
+      "frag-4756",
+      "frag-5814",
+      "frag-77656",
+      "frag-867",
+      "frag-50257",
+      "frag-5517",
+      "frag-2299",
+      "frag-7548",
+      "frag-30049"
+    ],
+    "gender_votes": {
+      "female": 1,
+      "more female": 2,
+      "unisex": 1
+    },
+    "longevity_votes": {
+      "very weak": 2,
+      "weak": 5,
+      "moderate": 17,
+      "long lasting": 5,
+      "eternal": 7
+    },
+    "sillage_votes": {
+      "intimate": 12,
+      "moderate": 17,
+      "strong": 10,
+      "enormous": 12
+    },
+    "pricing": {
+      "price_value_score": 3.3,
+      "price_value_votes": {
+        "ok": 2,
+        "good value": 1
+      }
+    },
+    "season_tags": [
+      "spring",
+      "fall",
+      "winter",
+      "night"
+    ]
+  },
+  {
+    "id": "frag-12961",
+    "name": "Iced White",
+    "brand": "A Dozen Roses",
+    "slug": "a-dozen-roses-iced-white",
+    "year": 2011,
+    "gender": "women",
+    "fragrance_family": "Floral",
+    "concentration": null,
+    "description": "Iced White by A Dozen Roses is a Floral fragrance for women. Iced White was launched in 2011. The nose behind this fragrance is Lynn Emmolo. middle notes are Peony, Rose, Osmanthus and Primrose; base notes are Musk and Vanille. \"All that we see or seem is but a dream within a dream\" Edgar Allen Poe Iced White is a harmonious chorus of pure white blooms - the rose being one of them. It's now innocent and fragile, hidden in the cool shade of a green garden. The most discreet of all three, it doesn't explore new horizons, it just reveals the astonishing beauty of white flowers in a very elegant way.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-Dozen-Roses/Iced-White-12961.html",
+    "fragrantica_rating": 3.52,
+    "fragrantica_votes": 80,
+    "main_accords": [
+      {
+        "name": "floral",
+        "score": 100
+      },
+      {
+        "name": "rose",
+        "score": 68
+      },
+      {
+        "name": "musky",
+        "score": 55
+      },
+      {
+        "name": "fresh",
+        "score": 53
+      },
+      {
+        "name": "fruity",
+        "score": 47
+      },
+      {
+        "name": "powdery",
+        "score": 46
+      }
+    ],
+    "top_notes": [],
+    "heart_notes": [
+      "Peony",
+      "Rose",
+      "Osmanthus",
+      "Primrose"
+    ],
+    "base_notes": [
+      "Musk",
+      "Vanille"
+    ],
+    "longevity": 62,
+    "sillage": 72,
+    "season_performance": {
+      "spring": 35,
+      "summer": 24,
+      "fall": 22,
+      "winter": 19,
+      "day": 71,
+      "night": 29
+    },
+    "image_url": "/images/fragrances/12961.jpg",
+    "brand_logo_url": "/images/brands/1275.jpg",
+    "similar_scents": [
+      "frag-13689",
+      "frag-43634",
+      "frag-7610",
+      "frag-45902",
+      "frag-8498",
+      "frag-26772",
+      "frag-5226",
+      "frag-6166",
+      "frag-13804",
+      "frag-18087",
+      "frag-31351",
+      "frag-1007",
+      "frag-3750",
+      "frag-49947"
+    ],
+    "gender_votes": {
+      "female": 3,
+      "more female": 1,
+      "unisex": 1
+    },
+    "longevity_votes": {
+      "very weak": 4,
+      "weak": 3,
+      "moderate": 4,
+      "long lasting": 3,
+      "eternal": 5
+    },
+    "sillage_votes": {
+      "intimate": 5,
+      "moderate": 4,
+      "strong": 6,
+      "enormous": 11
+    },
+    "pricing": {
+      "price_value_score": 3.0,
+      "price_value_votes": {
+        "ok": 3
+      }
+    },
+    "season_tags": [
+      "spring",
+      "summer",
+      "fall",
+      "day"
+    ]
+  },
+  {
+    "id": "frag-12960",
+    "name": "Shakespeare in Love",
+    "brand": "A Dozen Roses",
+    "slug": "a-dozen-roses-shakespeare-in-love",
+    "year": 2011,
+    "gender": "women",
+    "fragrance_family": "Floral Fruity",
+    "concentration": null,
+    "description": "Shakespeare in Love by A Dozen Roses is a Floral Fruity fragrance for women. Shakespeare in Love was launched in 2011. The nose behind this fragrance is Lynn Emmolo. Top note is Pear; middle notes are Rose, Gardenia and Jasmine; base notes are Vanille and Woodsy Notes. \"And what love can do that dares love attempt\" William Shakespeare Shakespeare in Love is a red rose composition and the most powerful of all three. The sweet freshness of juicy pear is generously sprinkled over the petals folded in the heart. They open up passionately soon after the first fragrant wave will be gone, shaking off cheerful sweet drops of the initial impression. The pear is still there, hidden in blooms while its cool moisture balances the edgy note of jasmine. The rose shines brightly and its whisper turns into a powerful monologue.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-Dozen-Roses/Shakespeare-in-Love-12960.html",
+    "fragrantica_rating": 3.62,
+    "fragrantica_votes": 110,
+    "main_accords": [
+      {
+        "name": "rose",
+        "score": 100
+      },
+      {
+        "name": "white floral",
+        "score": 97
+      },
+      {
+        "name": "vanilla",
+        "score": 78
+      },
+      {
+        "name": "fruity",
+        "score": 63
+      },
+      {
+        "name": "woody",
+        "score": 63
+      },
+      {
+        "name": "sweet",
+        "score": 62
+      },
+      {
+        "name": "floral",
+        "score": 56
+      },
+      {
+        "name": "aquatic",
+        "score": 48
+      },
+      {
+        "name": "lactonic",
+        "score": 46
+      },
+      {
+        "name": "fresh",
+        "score": 46
+      }
+    ],
+    "top_notes": [
+      "Pear"
+    ],
+    "heart_notes": [
+      "Rose",
+      "Gardenia",
+      "Jasmine"
+    ],
+    "base_notes": [
+      "Vanille",
+      "Woodsy Notes"
+    ],
+    "longevity": 60,
+    "sillage": 71,
+    "season_performance": {
+      "spring": 29,
+      "summer": 25,
+      "fall": 34,
+      "winter": 12,
+      "day": 78,
+      "night": 22
+    },
+    "image_url": "/images/fragrances/12960.jpg",
+    "brand_logo_url": "/images/brands/1275.jpg",
+    "similar_scents": [
+      "frag-2590",
+      "frag-2661",
+      "frag-16363",
+      "frag-29969",
+      "frag-9392",
+      "frag-24608",
+      "frag-6166",
+      "frag-44034",
+      "frag-29993",
+      "frag-36332"
+    ],
+    "gender_votes": {
+      "female": 3,
+      "more female": 1,
+      "unisex": 1
+    },
+    "longevity_votes": {
+      "very weak": 1,
+      "weak": 5,
+      "moderate": 9,
+      "long lasting": 5,
+      "eternal": 1
+    },
+    "sillage_votes": {
+      "intimate": 7,
+      "moderate": 9,
+      "strong": 8,
+      "enormous": 16
+    },
+    "pricing": {
+      "price_value_score": 2.5,
+      "price_value_votes": {
+        "overpriced": 2,
+        "ok": 2
+      }
+    },
+    "season_tags": [
+      "spring",
+      "summer",
+      "fall",
+      "day"
+    ]
+  }
+]

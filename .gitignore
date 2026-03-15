@@ -1,0 +1,39 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Raw dataset files (too large for git — download from Kaggle)
+src/data/*.csv
+src/data/description_embeddings.csv/
+src/data/notes_embeddings.csv/
+src/data/reviews_embeddings.csv/
+src/data/README
+src/data/README.png
+
+# Full processed catalog (97MB — only featured catalog is needed)
+data/processed/catalog.json
+data/processed/catalog-search.json
+
+# Public search index (12MB — derived, regenerate with process script)
+public/data/catalog-search.json

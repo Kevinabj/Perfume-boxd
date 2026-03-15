@@ -1,0 +1,93 @@
+[
+  {
+    "id": "frag-30007",
+    "name": "Rouge",
+    "brand": "A La Russe",
+    "slug": "a-la-russe-rouge",
+    "year": 2014,
+    "gender": "women",
+    "fragrance_family": "Oriental Spicy",
+    "concentration": null,
+    "description": "Rouge by A La Russe is a Oriental Spicy fragrance for women. Rouge was launched in 2014. The nose behind this fragrance is Sileno Cheloni.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-La-Russe/Rouge-30007.html",
+    "fragrantica_rating": 4.12,
+    "fragrantica_votes": 8,
+    "main_accords": [
+      {
+        "name": "vanilla",
+        "score": 100
+      },
+      {
+        "name": "amber",
+        "score": 83
+      },
+      {
+        "name": "balsamic",
+        "score": 51
+      },
+      {
+        "name": "musky",
+        "score": 51
+      },
+      {
+        "name": "powdery",
+        "score": 51
+      },
+      {
+        "name": "sweet",
+        "score": 49
+      },
+      {
+        "name": "fresh spicy",
+        "score": 48
+      },
+      {
+        "name": "woody",
+        "score": 46
+      }
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [
+      "Vanilla",
+      "Labdanum",
+      "Black Pepper"
+    ],
+    "longevity": 80,
+    "sillage": 75,
+    "season_performance": {
+      "spring": 25,
+      "summer": 0,
+      "fall": 50,
+      "winter": 25,
+      "day": 50,
+      "night": 50
+    },
+    "image_url": "/images/fragrances/30007.jpg",
+    "brand_logo_url": "/images/brands/2199.jpg",
+    "similar_scents": [],
+    "gender_votes": {
+      "female": 1
+    },
+    "longevity_votes": {
+      "very weak": 0,
+      "weak": 0,
+      "moderate": 0,
+      "long lasting": 3,
+      "eternal": 0
+    },
+    "sillage_votes": {
+      "intimate": 1,
+      "moderate": 0,
+      "strong": 0,
+      "enormous": 2
+    },
+    "season_tags": [
+      "spring",
+      "fall",
+      "winter",
+      "day",
+      "night"
+    ]
+  }
+]

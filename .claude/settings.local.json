@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \":*)",
+      "Bash(xargs grep:*)",
+      "Bash(ls c:/Users/Kevin/Desktop/fragrant-finder-lab/*.md)",
+      "Bash(ls c:/Users/Kevin/Desktop/fragrant-finder-lab/README*)"
+    ]
+  }
+}

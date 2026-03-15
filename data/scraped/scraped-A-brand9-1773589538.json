@@ -1,0 +1,431 @@
+[
+  {
+    "id": "frag-8051",
+    "name": "Green",
+    "brand": "A Perfume Organic",
+    "slug": "a-perfume-organic-green",
+    "year": 2009,
+    "gender": "unisex",
+    "fragrance_family": "Floral Green",
+    "concentration": null,
+    "description": "Green by A Perfume Organic is a Floral Green fragrance for women and men. Green was launched in 2009. The nose behind this fragrance is Amanda Walker. The brand's signature perfume GREEN, is a juicy herbal potion with rose (New York's state flower), black truffle, blue and roman chamomile and an overdose of ylang ylang with a spicy wood finish.100% of ingredients are certified USDA organic. 12ml roll-on bottle. The petite bottle and flower seed-embedded box can be planted and recycled as an effort to reduce wasteful packaging.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-Perfume-Organic/Green-8051.html",
+    "fragrantica_rating": 3.9,
+    "fragrantica_votes": 10,
+    "main_accords": [
+      {
+        "name": "woody",
+        "score": 100
+      },
+      {
+        "name": "yellow floral",
+        "score": 86
+      },
+      {
+        "name": "sweet",
+        "score": 58
+      },
+      {
+        "name": "rose",
+        "score": 56
+      },
+      {
+        "name": "floral",
+        "score": 55
+      },
+      {
+        "name": "herbal",
+        "score": 54
+      },
+      {
+        "name": "warm spicy",
+        "score": 54
+      },
+      {
+        "name": "earthy",
+        "score": 53
+      }
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [
+      "Ylang-Ylang",
+      "Woodsy Notes",
+      "Spices",
+      "Chamomile",
+      "Tincture of Rose",
+      "Truffle"
+    ],
+    "longevity": 60,
+    "sillage": 71,
+    "season_performance": {
+      "spring": 31,
+      "summer": 23,
+      "fall": 23,
+      "winter": 23,
+      "day": 50,
+      "night": 50
+    },
+    "image_url": "/images/fragrances/8051.jpg",
+    "brand_logo_url": "/images/brands/858.jpg",
+    "similar_scents": [
+      "frag-54355",
+      "frag-83535",
+      "frag-105636"
+    ],
+    "longevity_votes": {
+      "very weak": 0,
+      "weak": 0,
+      "moderate": 2,
+      "long lasting": 0,
+      "eternal": 0
+    },
+    "sillage_votes": {
+      "intimate": 0,
+      "moderate": 2,
+      "strong": 4,
+      "enormous": 1
+    },
+    "season_tags": [
+      "spring",
+      "summer",
+      "fall",
+      "winter",
+      "day",
+      "night"
+    ]
+  },
+  {
+    "id": "frag-10836",
+    "name": "Mejica",
+    "brand": "A Perfume Organic",
+    "slug": "a-perfume-organic-mejica",
+    "year": 2010,
+    "gender": "unisex",
+    "fragrance_family": "Oriental Spicy",
+    "concentration": null,
+    "description": "Mejica by A Perfume Organic is a Oriental Spicy fragrance for women and men. Mejica was launched in 2010. The nose behind this fragrance is Amanda Walker.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-Perfume-Organic/Mejica-10836.html",
+    "fragrantica_rating": 4.07,
+    "fragrantica_votes": 14,
+    "main_accords": [
+      {
+        "name": "vanilla",
+        "score": 100
+      },
+      {
+        "name": "amber",
+        "score": 99
+      },
+      {
+        "name": "warm spicy",
+        "score": 92
+      },
+      {
+        "name": "balsamic",
+        "score": 71
+      },
+      {
+        "name": "powdery",
+        "score": 51
+      },
+      {
+        "name": "woody",
+        "score": 45
+      },
+      {
+        "name": "sweet",
+        "score": 44
+      }
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [
+      "Spices",
+      "Resin",
+      "Vanille"
+    ],
+    "longevity": 48,
+    "sillage": 67,
+    "season_performance": {
+      "spring": 10,
+      "summer": 20,
+      "fall": 40,
+      "winter": 30,
+      "day": 71,
+      "night": 29
+    },
+    "image_url": "/images/fragrances/10836.jpg",
+    "brand_logo_url": "/images/brands/858.jpg",
+    "similar_scents": [
+      "frag-5242"
+    ],
+    "longevity_votes": {
+      "very weak": 2,
+      "weak": 0,
+      "moderate": 2,
+      "long lasting": 1,
+      "eternal": 0
+    },
+    "sillage_votes": {
+      "intimate": 1,
+      "moderate": 2,
+      "strong": 5,
+      "enormous": 1
+    },
+    "season_tags": [
+      "fall",
+      "winter",
+      "day"
+    ]
+  },
+  {
+    "id": "frag-8053",
+    "name": "Perfumed Wine - Rosé",
+    "brand": "A Perfume Organic",
+    "slug": "a-perfume-organic-perfumed-wine-ros",
+    "year": 2010,
+    "gender": "unisex",
+    "fragrance_family": "Woody Aromatic",
+    "concentration": null,
+    "description": "Perfumed Wine - Rosé by A Perfume Organic is a Woody Aromatic fragrance for women and men. Perfumed Wine - Rosé was launched in 2010. The nose behind this fragrance is Amanda Walker. Sommelier, Katherine Marlowe,  is collaborating with A Perfume Organic to select wine notes for the new Perfumed Wine Trio. The first release in the trio - Rosé - fresh berry, crisp apple, dark oaks, and rich spices blend beautifully.100% of ingredients are certified USDA organic. 12ml roll-on bottle.  The petite bottle and flower seed-embedded box can be planted and recycled as an effort to reduce wasteful packaging.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-Perfume-Organic/Perfumed-Wine-Rose-8053.html",
+    "fragrantica_rating": 3.78,
+    "fragrantica_votes": 9,
+    "main_accords": [
+      {
+        "name": "fruity",
+        "score": 100
+      },
+      {
+        "name": "woody",
+        "score": 81
+      },
+      {
+        "name": "fresh",
+        "score": 66
+      },
+      {
+        "name": "warm spicy",
+        "score": 66
+      },
+      {
+        "name": "green",
+        "score": 49
+      },
+      {
+        "name": "sweet",
+        "score": 48
+      }
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [
+      "Oak",
+      "Spices",
+      "Granny Smith apple",
+      "Red Berries",
+      "Pink Pepper"
+    ],
+    "longevity": 80,
+    "sillage": 67,
+    "season_performance": {
+      "spring": 14,
+      "summer": 14,
+      "fall": 43,
+      "winter": 29,
+      "day": 75,
+      "night": 25
+    },
+    "image_url": "/images/fragrances/8053.jpg",
+    "brand_logo_url": "/images/brands/858.jpg",
+    "similar_scents": [
+      "frag-17215",
+      "frag-686"
+    ],
+    "longevity_votes": {
+      "very weak": 0,
+      "weak": 0,
+      "moderate": 0,
+      "long lasting": 1,
+      "eternal": 0
+    },
+    "sillage_votes": {
+      "intimate": 1,
+      "moderate": 0,
+      "strong": 1,
+      "enormous": 1
+    },
+    "season_tags": [
+      "fall",
+      "winter",
+      "day"
+    ]
+  },
+  {
+    "id": "frag-8052",
+    "name": "Urban Organic",
+    "brand": "A Perfume Organic",
+    "slug": "a-perfume-organic-urban-organic",
+    "year": 2009,
+    "gender": "unisex",
+    "fragrance_family": "Citrus Aromatic",
+    "concentration": null,
+    "description": "Urban Organic by A Perfume Organic is a Citrus Aromatic fragrance for women and men. Urban Organic was launched in 2009. The nose behind this fragrance is Amanda Walker. Urban Organic is a sweet lemon sorbet with bourbon, tangy lime peel, basil & ginger and smoky vetiver.100% of ingredients are certified USDA organic. 12ml roll-on bottle.The petite bottle and flower seed-embedded box can be planted and recycled as an effort to reduce wasteful packaging.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-Perfume-Organic/Urban-Organic-8052.html",
+    "fragrantica_rating": 3.4,
+    "fragrantica_votes": 10,
+    "main_accords": [
+      {
+        "name": "citrus",
+        "score": 100
+      },
+      {
+        "name": "aromatic",
+        "score": 82
+      },
+      {
+        "name": "fresh spicy",
+        "score": 77
+      },
+      {
+        "name": "woody",
+        "score": 59
+      },
+      {
+        "name": "green",
+        "score": 55
+      },
+      {
+        "name": "fresh",
+        "score": 55
+      },
+      {
+        "name": "earthy",
+        "score": 52
+      }
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [
+      "Vetyver",
+      "Amalfi Lemon",
+      "Lime",
+      "Ginger",
+      "Basil"
+    ],
+    "longevity": 47,
+    "sillage": 100,
+    "season_performance": {
+      "spring": 30,
+      "summer": 40,
+      "fall": 20,
+      "winter": 10,
+      "day": 86,
+      "night": 14
+    },
+    "image_url": "/images/fragrances/8052.jpg",
+    "brand_logo_url": "/images/brands/858.jpg",
+    "similar_scents": [],
+    "longevity_votes": {
+      "very weak": 2,
+      "weak": 0,
+      "moderate": 0,
+      "long lasting": 0,
+      "eternal": 1
+    },
+    "sillage_votes": {
+      "intimate": 0,
+      "moderate": 0,
+      "strong": 0,
+      "enormous": 1
+    },
+    "season_tags": [
+      "spring",
+      "summer",
+      "day"
+    ]
+  },
+  {
+    "id": "frag-8054",
+    "name": "White Magik",
+    "brand": "A Perfume Organic",
+    "slug": "a-perfume-organic-white-magik",
+    "year": 2010,
+    "gender": "unisex",
+    "fragrance_family": "Floral",
+    "concentration": null,
+    "description": "White Magik by A Perfume Organic is a Floral fragrance for women and men. White Magik was launched in 2010. The nose behind this fragrance is Amanda Walker. White flowers, jasmine, mystical angelica root, and sage will cast a lovely spell. Bottle type: 12ml roll-on bottle. The petite bottle and flower seed-embedded box can be planted and recycled as an effort to reduce wasteful packaging.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/A-Perfume-Organic/White-Magik-8054.html",
+    "fragrantica_rating": 3.33,
+    "fragrantica_votes": 9,
+    "main_accords": [
+      {
+        "name": "musky",
+        "score": 100
+      },
+      {
+        "name": "amber",
+        "score": 82
+      },
+      {
+        "name": "powdery",
+        "score": 69
+      },
+      {
+        "name": "white floral",
+        "score": 57
+      },
+      {
+        "name": "aromatic",
+        "score": 51
+      },
+      {
+        "name": "herbal",
+        "score": 49
+      }
+    ],
+    "top_notes": [],
+    "heart_notes": [],
+    "base_notes": [
+      "Angelica",
+      "Sage",
+      "Jasmine",
+      "White Flowers"
+    ],
+    "longevity": 33,
+    "sillage": 62,
+    "season_performance": {
+      "spring": 25,
+      "summer": 25,
+      "fall": 25,
+      "winter": 25,
+      "day": 50,
+      "night": 50
+    },
+    "image_url": "/images/fragrances/8054.jpg",
+    "brand_logo_url": "/images/brands/858.jpg",
+    "similar_scents": [],
+    "longevity_votes": {
+      "very weak": 2,
+      "weak": 0,
+      "moderate": 1,
+      "long lasting": 0,
+      "eternal": 0
+    },
+    "sillage_votes": {
+      "intimate": 2,
+      "moderate": 1,
+      "strong": 4,
+      "enormous": 1
+    },
+    "season_tags": [
+      "spring",
+      "summer",
+      "fall",
+      "winter",
+      "day",
+      "night"
+    ]
+  }
+]

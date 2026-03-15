@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git config:*)",
+      "Read(//c/Users/Kevin/Desktop/**)",
+      "Bash(pip install:*)",
+      "Read(//c/Users/Kevin/.kaggle/**)",
+      "Bash(python -c \":*)",
+      "Bash(python scripts/process-kaggle-dataset.py)",
+      "Bash(npx -p typescript tsc --noEmit)",
+      "Bash(npm install:*)",
+      "Bash(pip list:*)",
+      "Bash(python scripts/scrape-fragrantica.py --brand-url \"https://www.fragrantica.com/designers/French-Avenue.html\" --limit 3 --dry-run)",
+      "Bash(python scripts/scrape-fragrantica.py --letter A --limit 2 --frag-limit 2 --dry-run)",
+      "Bash(python scripts/scrape-fragrantica.py --fragrance-url \"https://www.fragrantica.com/perfume/Dior/Sauvage-Eau-de-Toilette-31861.html\" --dry-run)",
+      "Bash(python scripts/scrape-fragrantica.py --fragrance-url \"https://www.fragrantica.com/perfume/Dior/Sauvage-Eau-de-Toilette-31861.html\")",
+      "Bash(node -e \":*)",
+      "Bash(python scripts/scrape-fragrantica.py --fragrance-url \"https://www.fragrantica.com/perfume/Dior/Sauvage-31861.html\")",
+      "Bash(curl -s http://localhost:8083/fragrance/frag-31861)",
+      "Bash(curl -s \"http://localhost:8083/src/pages/FragranceDetail.tsx\")",
+      "Bash(python -c \"import py_compile; py_compile.compile\\(''scripts/scrape-fragrantica.py'', doraise=True\\)\")",
+      "Bash(npx tsc:*)",
+      "Bash(python -c \"from playwright.sync_api import sync_playwright; from bs4 import BeautifulSoup; print\\(''OK''\\)\")",
+      "Bash(python -c \"import scripts; print\\(''syntax ok''\\)\")",
+      "Bash(python scripts/scrape-fragrantica.py --fragrance-url \"https://www.fragrantica.com/perfume/A-Bathing-Ape/A-Bathing-Ape-36541.html\" --dry-run)"
+    ]
+  }
+}

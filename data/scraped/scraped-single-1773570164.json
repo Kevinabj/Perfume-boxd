@@ -1,0 +1,228 @@
+[
+  {
+    "id": "frag-48100",
+    "name": "Sauvage Eau de Parfum",
+    "brand": "Dior",
+    "slug": "dior-sauvage-eau-de-parfum",
+    "year": 2018,
+    "gender": "men",
+    "fragrance_family": "Oriental Fougere",
+    "concentration": "Eau de Parfum",
+    "description": "Sauvage Eau de Parfum by Dior is a Oriental Fougere fragrance for men. Sauvage Eau de Parfum was launched in 2018. The nose behind this fragrance is François Demachy. Top note is Bergamot; middle notes are Sichuan Pepper, Lavender, Star Anise and Nutmeg; base notes are Ambroxan and Vanilla. In 2018, Dior introduces the new edition of Dior Sauvage, originally launched in 2015, in an Eau de Parfum interpretation. Dior‘s in-house perfumer François Demachy imagines the Eau de Parfum as revealing new facets of Sauvage. The composition with oriental and vanilla facets is described as enveloping, suave, mysterious and sensual.he composition keeps some of the notes from the original, like bergamot, Sichuan pepper, lavender and ambroxan and enriches them with spices and warm, oriental tones of star anise, nutmeg and papua vanilla.The new ad campaign also features actor Johnny Depp as the face. The fragrance is available as a 60 and a 100 ml Eau de Parfum.",
+    "fragrantica_url": "https://www.fragrantica.com/perfume/Dior/Sauvage-Eau-de-Parfum-48100.html",
+    "fragrantica_rating": 4.21,
+    "fragrantica_votes": 13499,
+    "main_accords": [
+      {
+        "name": "fresh spicy",
+        "score": 100
+      },
+      {
+        "name": "citrus",
+        "score": 82
+      },
+      {
+        "name": "amber",
+        "score": 73
+      },
+      {
+        "name": "lavender",
+        "score": 57
+      },
+      {
+        "name": "musky",
+        "score": 56
+      },
+      {
+        "name": "aromatic",
+        "score": 51
+      },
+      {
+        "name": "herbal",
+        "score": 51
+      },
+      {
+        "name": "anis",
+        "score": 49
+      },
+      {
+        "name": "soft spicy",
+        "score": 49
+      },
+      {
+        "name": "floral",
+        "score": 48
+      }
+    ],
+    "top_notes": [
+      "Bergamot"
+    ],
+    "heart_notes": [
+      "Sichuan Pepper",
+      "Lavender",
+      "Star Anise",
+      "Nutmeg"
+    ],
+    "base_notes": [
+      "Ambroxan",
+      "Vanilla"
+    ],
+    "longevity": 75,
+    "sillage": 68,
+    "season_performance": {
+      "spring": 27,
+      "summer": 22,
+      "fall": 27,
+      "winter": 25,
+      "day": 49,
+      "night": 51
+    },
+    "image_url": "/images/fragrances/48100.jpg",
+    "brand_logo_url": "/images/brands/160.jpg",
+    "similar_scents": [
+      "frag-31861",
+      "frag-56324",
+      "frag-43402",
+      "frag-77860",
+      "frag-43933",
+      "frag-96001",
+      "frag-69256",
+      "frag-50265",
+      "frag-52255",
+      "frag-116731",
+      "frag-93538",
+      "frag-58312",
+      "frag-81977",
+      "frag-51250",
+      "frag-53752",
+      "frag-83656",
+      "frag-53342",
+      "frag-69638",
+      "frag-99211",
+      "frag-50327"
+    ],
+    "gender_votes": {
+      "female": 46,
+      "more female": 12,
+      "unisex": 207,
+      "more male": 1300,
+      "male": 7000
+    },
+    "longevity_votes": {
+      "very weak": 147,
+      "weak": 288,
+      "moderate": 2500,
+      "long lasting": 5800,
+      "eternal": 1000
+    },
+    "sillage_votes": {
+      "intimate": 448,
+      "moderate": 2500,
+      "strong": 5100,
+      "enormous": 823
+    },
+    "pricing": {
+      "price_value_score": 2.8,
+      "price_value_votes": {
+        "way overpriced": 480,
+        "overpriced": 2200,
+        "ok": 4100,
+        "good value": 973,
+        "great value": 179
+      }
+    },
+    "community_opinions": [
+      {
+        "text": "Potent and strong performance",
+        "type": "pro",
+        "thumbsUp": 967,
+        "thumbsDown": 59
+      },
+      {
+        "text": "High mass appeal and compliment potential",
+        "type": "pro",
+        "thumbsUp": 905,
+        "thumbsDown": 69
+      },
+      {
+        "text": "Suitable for users of all ages",
+        "type": "pro",
+        "thumbsUp": 812,
+        "thumbsDown": 91
+      },
+      {
+        "text": "Freshness that lasts all day",
+        "type": "pro",
+        "thumbsUp": 642,
+        "thumbsDown": 72
+      },
+      {
+        "text": "Highly versatile for any man's style",
+        "type": "pro",
+        "thumbsUp": 617,
+        "thumbsDown": 89
+      },
+      {
+        "text": "Strong immediate presence and sillage",
+        "type": "pro",
+        "thumbsUp": 508,
+        "thumbsDown": 173
+      },
+      {
+        "text": "Smoother and more refined than EDT",
+        "type": "pro",
+        "thumbsUp": 406,
+        "thumbsDown": 239
+      },
+      {
+        "text": "Rich blend of spiced vanilla and anise",
+        "type": "pro",
+        "thumbsUp": 33,
+        "thumbsDown": 13
+      },
+      {
+        "text": "Rich, creamy vanilla and anise drydown",
+        "type": "pro",
+        "thumbsUp": 32,
+        "thumbsDown": 15
+      },
+      {
+        "text": "Recent reformulations reported to have lower longevity",
+        "type": "con",
+        "thumbsUp": 28,
+        "thumbsDown": 22
+      },
+      {
+        "text": "Intense pepper opening can be overwhelming",
+        "type": "con",
+        "thumbsUp": 22,
+        "thumbsDown": 41
+      },
+      {
+        "text": "Lower projection compared to EDT version",
+        "type": "con",
+        "thumbsUp": 6,
+        "thumbsDown": 41
+      },
+      {
+        "text": "Commonality makes it feel less unique",
+        "type": "con",
+        "thumbsUp": 145,
+        "thumbsDown": 576
+      },
+      {
+        "text": "Can become cloying in high temperatures",
+        "type": "con",
+        "thumbsUp": 108,
+        "thumbsDown": 550
+      }
+    ],
+    "season_tags": [
+      "spring",
+      "summer",
+      "fall",
+      "winter",
+      "night"
+    ]
+  }
+]
