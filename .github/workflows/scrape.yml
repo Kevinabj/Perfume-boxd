@@ -1,0 +1,38 @@
+name: Run Scraper
+
+# Lets you run it manually from GitHub
+on:
+  workflow_dispatch:
+    inputs:
+      args:
+        description: 'Scraper arguments (e.g. --letter A --resume)'
+        required: true
+        default: '--letter A --resume'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300  # 5 hour max
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install beautifulsoup4
+
+      - name: Run scraper
+        run: python scripts/scrape-fragrantica.py ${{ github.event.inputs.args }}
+
+      - name: Commit & push results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/ public/images/
+          git diff --staged --quiet || git commit -m "Scraper run: ${{ github.event.inputs.args }}"
+          git push
